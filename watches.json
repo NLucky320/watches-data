@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Apple Watch Series 7", "brand": "Apple", "price": 399.99, "features": ["Always-On Retina display", "Fitness and health tracking", "Water-resistant", "ECG app"] },
+  { "id": 2, "name": "Samsung Galaxy Watch 4", "brand": "Samsung", "price": 249.99, "features": ["AMOLED display", "Body composition measurement", "Advanced sleep tracking", "Built-in GPS"] },
+  { "id": 3, "name": "Fitbit Sense", "brand": "Fitbit", "price": 299.95, "features": ["EDA and ECG sensors", "Stress tracking", "Built-in GPS", "Oxygen saturation monitoring"] },
+  { "id": 4, "name": "Garmin Venu 2", "brand": "Garmin", "price": 399.99, "features": ["AMOLED display", "Advanced fitness and health metrics", "Built-in sports apps", "Battery life up to 11 days"] },
+  { "id": 5, "name": "Xiaomi Mi Watch Revolve", "brand": "Xiaomi", "price": 129.99, "features": ["AMOLED display", "Heart rate monitoring", "Sleep analysis", "Built-in GPS"] }
+]
